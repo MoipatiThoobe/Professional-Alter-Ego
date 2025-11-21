@@ -19,19 +19,19 @@ your professional experience, skills, and journey.**
 ## 🚀 Project Overview
 
 **Professional-Alter-Ego** is a lightweight AI agent designed to act as
-your *professional proxy*.\
+your *professional proxy*.
 It knows your background, skills, roles, and experiences---and can
 answer questions about you in real time.
 
 ## 🎯 Features
 
 -   Understands your **education, work history, skills, and professional
-    journey**\
+    journey**
 -   Answers questions about you in a **consistent, informed, and
-    natural** way\
--   Lightweight **Python application**\
+    natural** way
+-   Lightweight **Python application**
 -   Easy to extend with your own data, prompts, or a more advanced RAG
-    pipeline\
+    pipeline
 -   Ideal for recruiters, teammates, personal branding, or interactive
     portfolios
 
@@ -84,22 +84,22 @@ python app.py
 
 ## 🛠 Customization
 
--   Update your profile data\
--   Adjust the prompt\
--   Add RAG\
+-   Update your profile data
+-   Adjust the prompt
+-   Add RAG
 -   Build a UI
 
 ## 💡 Use Cases
 
--   Recruiters Q&A\
--   Interactive portfolios\
--   Automated screening\
+-   Recruiters Q&A
+-   Interactive portfolios
+-   Automated screening
 -   Personal branding
 
 ## ✅ Best Practices
 
--   Keep data updated\
--   Use environment variables\
+-   Keep data updated
+-   Use environment variables
 -   Apply guardrails
 
 ## 🙌 Contributing
@@ -108,7 +108,7 @@ Contributions welcome!
 
 ## 📞 Contact
 
-**Moipati Thoobe**\
-- LinkedIn:\
-- Email:
+**Moipati Thoobe**
+- LinkedIn: https://www.linkedin.com/in/moipati-thoobe-b9063a120/
+- Email: Moipatit578@gmail.com
 
