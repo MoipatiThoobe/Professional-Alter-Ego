@@ -5,15 +5,15 @@ your professional experience, skills, and journey.**
 
 ## 📝 Table of Contents
 
--   [Project Overview](#-project-overview)\
--   [Features](#-features)\
--   [Repository Structure](#-repository-structure)\
--   [Prerequisites & Setup](#-prerequisites--setup)\
--   [Running the Agent](#-running-the-agent)\
--   [Customization](#-customization)\
--   [Use Cases](#-use-cases)\
--   [Best Practices](#-best-practices)\
--   [Contributing](#-contributing)\
+-   [Project Overview](#-project-overview)
+-   [Features](#-features)
+-   [Repository Structure](#-repository-structure)
+-   [Prerequisites & Setup](#-prerequisites--setup)
+-   [Running the Agent](#-running-the-agent)
+-   [Customization](#-customization)
+-   [Use Cases](#-use-cases)
+-   [Best Practices](#-best-practices)
+-   [Contributing](#-contributing)
 -   [Contact](#-contact)
 
 ## 🚀 Project Overview
